@@ -58,8 +58,8 @@ Print the number of jobs scheduled and total profit obtained.
 ```
 /*
 Program to implement Reverse a String
-Developed by: ADITHYA V
-Register Number:212223110001
+Developed by: SHIVRAJ R 
+Register Number:212223110051
 import java.util.*;
 
 public class JobScheduling {
